@@ -84,3 +84,89 @@
     top: 102VW;
   }
 }
+@media only screen and (min-device-width: 414px) and (max-device-width: 751px) and (orientation: portrait){
+  body {
+    display: block;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  .m1 {
+    position: absolute;
+    width: 100VW;
+    align: bottom;
+    top: 51VW;
+  }
+  .m5 {
+    position: absolute;
+    width: 70VW;
+    align: bottom;
+    top: 92VW;
+  }
+  .m2 {
+    position: absolute;
+    width: 120VW;
+    align: bottom;
+  }
+  .m4 {
+    position: absolute;
+    width: 120VW;
+  }
+  h2 {
+    top: 90VW;
+  }
+  h3 {
+    top: 80VW;
+  }
+  h4 {
+    top: 125VW;
+  }
+  .l2 {
+    top:66.5VW;
+  }
+  .l3 {
+    top:109VW;
+  }
+  .l4 {
+    top:158VW;
+  }
+  .t9 {
+    font-size: 2VW;
+    top: 156VW;
+    left: 42VW;
+  }
+  .t0 {
+    font-size: 2VW;
+    left: 48VW;
+    top: 66VW;
+  }
+  .t1 {
+    font-size: 2VW;
+    left: 8VW;
+    top: 17VW;
+  }
+  .t11 {
+    font-size: 2VW;
+    left: 8VW;
+    top: 60VW;
+  }
+  .t5 {
+    font-size: 2VW;
+    left: 90VW;
+    top: 98.3VW;
+  }
+  .t3 {
+    font-size: 2VW;
+    left: 88VW;
+    top: -8VW;
+  }
+  .t4 {
+    font-size: 2VW;
+    left: 13VW;
+    top: 108VW;
+  }
+  .t6 {
+    font-size: 2VW;
+    left: 87VW;
+    top: 102VW;
+  }
+}

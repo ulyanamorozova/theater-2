@@ -1,0 +1,14 @@
+@import "content.css";
+@import "responsive.css";
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter-Light.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Inter1";
+  src: url("../fonts/Inter-Thin.otf") format("truetype");
+  font-style: Thin;
+  font-weight: Thin;
+}

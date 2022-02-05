@@ -94,79 +94,91 @@
     position: absolute;
     width: 100VW;
     align: bottom;
-    top: 51VW;
+    top: 94VW;
   }
   .m5 {
     position: absolute;
-    width: 70VW;
+    width: 90VW;
     align: bottom;
-    top: 92VW;
+    top: 111VW;
   }
   .m2 {
     position: absolute;
-    width: 120VW;
+    width: 100VW;
     align: bottom;
+    top: 60VW;
   }
   .m4 {
     position: absolute;
     width: 120VW;
   }
+  .m3 {
+    left: 10VW;
+    width: 90VW;
+  }
+
+  h1 {
+    top: -3VW;
+  }
   h2 {
-    top: 90VW;
+    top: 50VW;
   }
   h3 {
-    top: 80VW;
+    top: 108VW;
   }
   h4 {
-    top: 125VW;
+    top: 155VW;
+  }
+  .l1 {
+    top:22VW;
   }
   .l2 {
-    top:66.5VW;
+    top:77VW;
   }
   .l3 {
-    top:109VW;
+    top:137VW;
   }
   .l4 {
-    top:158VW;
+    top:188VW;
   }
   .t9 {
-    font-size: 2VW;
-    top: 156VW;
+    font-size: 2.7VW;
+    top: 187VW;
     left: 42VW;
   }
   .t0 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 48VW;
-    top: 66VW;
+    top: 80VW;
   }
   .t1 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 8VW;
     top: 17VW;
   }
   .t11 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 8VW;
-    top: 60VW;
+    top: 72VW;
   }
   .t5 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 90VW;
-    top: 98.3VW;
+    top: 124VW;
   }
   .t3 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 88VW;
-    top: -8VW;
+    top: -18VW;
   }
   .t4 {
-    font-size: 2VW;
-    left: 13VW;
-    top: 108VW;
+    font-size: 2.7VW;
+    left: 3VW;
+    top: 125.5VW;
   }
   .t6 {
-    font-size: 2VW;
+    font-size: 2.7VW;
     left: 87VW;
-    top: 102VW;
+    top: 118.5VW;
   }
 }

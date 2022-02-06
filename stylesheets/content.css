@@ -70,6 +70,7 @@ body{
   width: 65VW;
   align: left;
   top: 48.5VW;
+  overflow: hidden;
 }
 .m5:hover{
     animation: m5 1s infinite alternate both;
